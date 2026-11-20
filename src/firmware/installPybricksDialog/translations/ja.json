@@ -1,1 +1,72 @@
-ewogICAgImJhY2tCdXR0b24iOiB7CiAgICAgICAgImxhYmVsIjogIuaIu+OCiyIKICAgIH0sCiAgICAiYm9vdGxvYWRlclBhbmVsIjogewogICAgICAgICJ0aXRsZSI6ICLjgqTjg7Pjgrnjg4jjg7zjg6siCiAgICB9LAogICAgImZsYXNoRmlybXdhcmVCdXR0b24iOiB7CiAgICAgICAgImxhYmVsIjogIuOCpOODs+OCueODiOODvOODqyIKICAgIH0sCiAgICAibGljZW5zZVBhbmVsIjogewogICAgICAgICJhY2NlcHRDaGVja2JveCI6IHsKICAgICAgICAgICAgImxhYmVsIjogIuODqeOCpOOCu+ODs+OCueOBruWGheWuueOCkuiqreOBv+OAgeWQjOaEj+OBl+OBvuOBmeOAgiIKICAgICAgICB9LAogICAgICAgICJsaWNlbnNlVGV4dCI6IHsKICAgICAgICAgICAgImVycm9yIjogIuODleOCoeODvOODoOOCpuOCp+OCouODleOCoeOCpOODq+OBruWPluW+l+S4reOBq+WVj+mhjOOBjOi1t+OBjeOBvuOBl+OBn+OAgiIKICAgICAgICB9LAogICAgICAgICJ0aXRsZSI6ICLjg6njgqTjgrvjg7PjgrnjgavlkIzmhI/jgZnjgosiCiAgICB9LAogICAgIm5leHRCdXR0b24iOiB7CiAgICAgICAgImxhYmVsIjogIuasoeOBuCIKICAgIH0sCiAgICAib3B0aW9uc1BhbmVsIjogewogICAgICAgICJodWJOYW1lIjogewogICAgICAgICAgICAiZXJyb3IiOiAi5ZCN5YmN44GM6ZW344GZ44GO44G+44GZ44CCIiwKICAgICAgICAgICAgImhlbHAiOiAi44OP44OW44GuIEJsdWV0b290aCDjga7lkI3liY3jgpLmsbrjgoHjgb7jgZnjgILjg4/jg5bjgYzopIfmlbDjgYLjgovjgajjgY3jgIHmjqXntprjgZnjgovjgajjgY3jgavopovliIbjgZHjgoTjgZnjgY/jgarjgorjgb7jgZnjgIIiLAogICAgICAgICAgICAibGFiZWwiOiAi44OP44OW44Gu5ZCN5YmNIiwKICAgICAgICAgICAgImxhYmVsSW5mbyI6ICLvvIjlhaXjgozjgarjgY/jgabjgoLjgojjgYTvvIkiCiAgICAgICAgfSwKICAgICAgICAidGl0bGUiOiAi44Kq44OX44K344On44Oz44Gu6Kit5a6aIgogICAgfSwKICAgICJzZWxlY3RIdWJQYW5lbCI6IHsKICAgICAgICAiYWR2YW5jZWQiOiB7CiAgICAgICAgICAgICJjdXN0b21GaXJtd2FyZURyb3B6b25lIjogewogICAgICAgICAgICAgICAgImxhYmVsIjogIuOCq+OCueOCv+ODoOODleOCoeODvOODoOOCpuOCp+OCouOBriAuemlwIOODleOCoeOCpOODq+OCkuOBk+OBk+OBq+ODieODreODg+ODl+OBmeOCi+OBi+OAgeOCr+ODquODg+OCr+OBl+OBpuODleOCoeOCpOODq+OCkumBuOOCk+OBp+OBj+OBoOOBleOBhOOAgiIKICAgICAgICAgICAgfSwKICAgICAgICAgICAgImxhYmVsIjogIuS4iue0muiAheWQkeOBkSIKICAgICAgICB9LAogICAgICAgICJjdXN0b21GaXJtd2FyZSI6IHsKICAgICAgICAgICAgImNsZWFyQnV0dG9uIjogIuOCr+ODquOCoiIsCiAgICAgICAgICAgICJmaXJtd2FyZVZlcnNpb24iOiAi44OV44Kh44O844Og44Km44Kn44Ki44Gu44OQ44O844K444On44OzOiB7dmVyc2lvbn0iLAogICAgICAgICAgICAiaHViVHlwZSI6ICLjg4/jg5bjga7nqK7poZ46IHtodWJUeXBlTmFtZX0iLAogICAgICAgICAgICAibWVzc2FnZSI6ICLjgqvjgrnjgr/jg6Djg5XjgqHjg7zjg6DjgqbjgqfjgqLjgYzpgbjjgbDjgozjgb7jgZfjgZ/jgIIiCiAgICAgICAgfSwKICAgICAgICAibWVzc2FnZSI6ICLkvb/jgaPjgabjgYTjgovjg4/jg5bjgpLpgbjjgpPjgafjgY/jgaDjgZXjgYTjgIIiLAogICAgICAgICJub3RPbkxpc3RCdXR0b24iOiB7CiAgICAgICAgICAgICJpbmZvIjogewogICAgICAgICAgICAgICAgIm1pbmRzdG9ybXMiOiB7CiAgICAgICAgICAgICAgICAgICAgImhlbHAiOiB7CiAgICAgICAgICAgICAgICAgICAgICAgICJtZXNzYWdlIjogIuOBp+OCguOAgeOBv+OBquOBleOCk+OBruW/nOaPtOOBjOOBguOCjOOBsOWvvuW/nOOBp+OBjeOCi+OCiOOBhuOBq+OBquOCiuOBvuOBme+8geWPs+S4iuOBq+OBguOCiyB7c3BvbnNvcn0g44Oc44K/44Oz44KS44Kv44Oq44OD44Kv44GZ44KL44Go44CB5b+c5o+044Gu5pa55rOV44GM6KaL44KJ44KM44G+44GZ44CCIiwKICAgICAgICAgICAgICAgICAgICAgICAgInNwb25zb3IiOiAi44K544Od44Oz44K144O8IgogICAgICAgICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgICAgICAgImludHJvIjogInthcHBOYW1lfSDjga/jgIHliY3jga7kuJbku6Pjga4ge2xlZ29NaW5kc3Rvcm1zUmVnaXN0ZXJlZFRyYWRlbWFya30g44Gr44Gv44G+44Gg5a++5b+c44GX44Gm44GE44G+44Gb44KT44CCIiwKICAgICAgICAgICAgICAgICAgICAibnh0IjogIk5YVDog44OG44K544OI44GX44Gf44GT44Go44GM44GC44KK44G+44GZ44CC5YuV44GP44GL44KC44GX44KM44G+44Gb44KT77yBIiwKICAgICAgICAgICAgICAgICAgICAicmN4IjogIlJDWDog44K544OI44Oq44O844Of44Oz44Kw44Oi44O844OJ44Gq44KJ5YuV44GP44GL44KC44GX44KM44G+44Gb44KT44CCIiwKICAgICAgICAgICAgICAgICAgICAidGl0bGUiOiAie2xlZ29NaW5kc3Rvcm1zUmVnaXN0ZXJlZFRyYWRlbWFya30g44Gu44OW44Ot44OD44KvIgogICAgICAgICAgICAgICAgfSwKICAgICAgICAgICAgICAgICJwb3dlcmVkVXAiOiB7CiAgICAgICAgICAgICAgICAgICAgImR1cGxvVHJhaW4iOiAi44OH44Ol44OX44OtIOODiOODrOOCpOODsyDjg4/jg5YiLAogICAgICAgICAgICAgICAgICAgICJpbnRybyI6ICLjgZPjgozjgonjga7jg4/jg5bjgbjjga7lr77lv5zjga/jgIHku4rjga7jgajjgZPjgo3kuojlrprjgYzjgYLjgorjgb7jgZvjgpPjgIIiLAogICAgICAgICAgICAgICAgICAgICJtYXJpbyI6ICLjg57jg6rjgqrvvI/jg6vjgqTjg7zjgrjvvI/jg5Tjg7zjg4EiLAogICAgICAgICAgICAgICAgICAgICJ0ZWNobmljTW92ZSI6ICLjg4bjgq/jg4vjg4Pjgq8g44Og44O844OWIOODj+ODliIsCiAgICAgICAgICAgICAgICAgICAgInRpdGxlIjogIuOBu+OBi+OBruODj+ODliIsCiAgICAgICAgICAgICAgICAgICAgIndlZG8yIjogIldlRG8gMi4wIOOCueODnuODvOODiOODj+ODliIKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfSwKICAgICAgICAgICAgImxhYmVsIjogIuOBu+OBi+OBruODj+ODluOBr++8nyIKICAgICAgICB9LAogICAgICAgICJ0aXRsZSI6ICLjg4/jg5bjga7nqK7poZ7jgpLpgbjjgbYiCiAgICB9LAogICAgInRpdGxlIjogIlB5YnJpY2tzIOODleOCoeODvOODoOOCpuOCp+OCouOBruOCpOODs+OCueODiOODvOODqyIKfQo=
+{
+    "backButton": {
+        "label": "戻る"
+    },
+    "bootloaderPanel": {
+        "title": "インストール"
+    },
+    "flashFirmwareButton": {
+        "label": "インストール"
+    },
+    "licensePanel": {
+        "acceptCheckbox": {
+            "label": "ライセンスの内容を読み、同意します。"
+        },
+        "licenseText": {
+            "error": "ファームウェアファイルの取得中に問題が起きました。"
+        },
+        "title": "ライセンスに同意する"
+    },
+    "nextButton": {
+        "label": "次へ"
+    },
+    "optionsPanel": {
+        "hubName": {
+            "error": "名前が長すぎます。",
+            "help": "ハブの Bluetooth の名前を決めます。ハブが複数あるとき、接続するときに見分けやすくなります。",
+            "label": "ハブの名前",
+            "labelInfo": "（入れなくてもよい）"
+        },
+        "title": "オプションの設定"
+    },
+    "selectHubPanel": {
+        "advanced": {
+            "customFirmwareDropzone": {
+                "label": "カスタムファームウェアの .zip ファイルをここにドロップするか、クリックしてファイルを選んでください。"
+            },
+            "label": "上級者向け"
+        },
+        "customFirmware": {
+            "clearButton": "クリア",
+            "firmwareVersion": "ファームウェアのバージョン: {version}",
+            "hubType": "ハブの種類: {hubTypeName}",
+            "message": "カスタムファームウェアが選ばれました。"
+        },
+        "message": "使っているハブを選んでください。",
+        "notOnListButton": {
+            "info": {
+                "mindstorms": {
+                    "help": {
+                        "message": "でも、みなさんの応援があれば対応できるようになります！右上にある {sponsor} ボタンをクリックすると、応援の方法が見られます。",
+                        "sponsor": "スポンサー"
+                    },
+                    "intro": "{appName} は、前の世代の {legoMindstormsRegisteredTrademark} にはまだ対応していません。",
+                    "nxt": "NXT: テストしたことがあります。動くかもしれません！",
+                    "rcx": "RCX: ストリーミングモードなら動くかもしれません。",
+                    "title": "{legoMindstormsRegisteredTrademark} のブロック"
+                },
+                "poweredUp": {
+                    "duploTrain": "デュプロ トレイン ハブ",
+                    "intro": "これらのハブへの対応は、今のところ予定がありません。",
+                    "mario": "マリオ／ルイージ／ピーチ",
+                    "technicMove": "テクニック ムーブ ハブ",
+                    "title": "ほかのハブ",
+                    "wedo2": "WeDo 2.0 スマートハブ"
+                }
+            },
+            "label": "ほかのハブは？"
+        },
+        "title": "ハブの種類を選ぶ"
+    },
+    "title": "Pybricks ファームウェアのインストール"
+}
