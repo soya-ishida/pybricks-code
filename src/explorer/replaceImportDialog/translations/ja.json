@@ -1,1 +1,12 @@
-ewogICAgImFjdGlvbiI6IHsKICAgICAgICAicmVuYW1lIjogIuS7iuOBguOCi+ODleOCoeOCpOODq+OCkuaui+OBl+OBpuOAgeiqreOBv+i+vOOCgOODleOCoeOCpOODq+OBruWQjeWJjeOCkuWkieOBiOOCiyIsCiAgICAgICAgInJlcGxhY2UiOiAi5LuK44GC44KL44OV44Kh44Kk44Or44KS44CB6Kqt44G/6L6844KA44OV44Kh44Kk44Or44Gr572u44GN5o+b44GI44KLIiwKICAgICAgICAic2tpcCI6ICLku4rjgYLjgovjg5XjgqHjgqTjg6vjgpLmrovjgZfjgabjgIHjgZPjga7jg5XjgqHjgqTjg6vjga/oqq3jgb/ovrzjgb7jgarjgYQiCiAgICB9LAogICAgIm1lc3NhZ2UiOiAi6Kqt44G/6L6844KA44OV44Kh44Kk44OrICd7ZmlsZU5hbWV9JyDjgajlkIzjgZjlkI3liY3jga7jg5XjgqHjgqTjg6vjgYzjgZnjgafjgavjgYLjgorjgb7jgZnjgIIiLAogICAgIm9wdGlvbiI6IHsKICAgICAgICAicmVtZW1iZXIiOiAi5qyh44Gr5ZCM44GY44GT44Go44GM44GC44Gj44Gf44Go44GN44KC44CB44GT44Gu562U44GI44KS5L2/44GGIgogICAgfSwKICAgICJ0aXRsZSI6ICLku4rjgYLjgovjg5XjgqHjgqTjg6vjgpLnva7jgY3mj5vjgYjjgb7jgZnjgYvvvJ8iCn0K
+{
+    "action": {
+        "rename": "今あるファイルを残して、読み込むファイルの名前を変える",
+        "replace": "今あるファイルを、読み込むファイルに置き換える",
+        "skip": "今あるファイルを残して、このファイルは読み込まない"
+    },
+    "message": "読み込むファイル '{fileName}' と同じ名前のファイルがすでにあります。",
+    "option": {
+        "remember": "次に同じことがあったときも、この答えを使う"
+    },
+    "title": "今あるファイルを置き換えますか？"
+}
