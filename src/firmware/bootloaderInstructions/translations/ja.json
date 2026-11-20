@@ -1,1 +1,53 @@
-ewogICAgImJ1dHRvbiI6IHsKICAgICAgICAiYmx1ZXRvb3RoIjogIkJsdWV0b290aCDjg5zjgr/jg7MiLAogICAgICAgICJwb3dlciI6ICLjg5zjgr/jg7MiLAogICAgICAgICJyaWdodCI6ICLlj7Pjg5zjgr/jg7MiCiAgICB9LAogICAgImluc3RydWN0aW9uR3JvdXAiOiB7CiAgICAgICAgImJvb3Rsb2FkZXJNb2RlIjogewogICAgICAgICAgICAiY29ubmVjdFVzYiI6ICJVU0Ig44Kx44O844OW44Or44KS44Gk44Gq44GE44Gn44GP44Gg44GV44GE44CCIiwKICAgICAgICAgICAgImRpc2Nvbm5lY3RJbyI6ICLjg4/jg5bjga7jg53jg7zjg4ggQSDjgavjgaTjgarjgYTjgafjgYLjgovjgoLjga7jgpLjgIHjgZnjgbnjgablj5bjgorlpJbjgZfjgabjgY/jgaDjgZXjgYTjgIIiLAogICAgICAgICAgICAiaG9sZEJ1dHRvbiI6ICLjg4/jg5bjga4ge2J1dHRvbn0g44KS5oq844GX57aa44GR44Gm44GP44Gg44GV44GE44CCIiwKICAgICAgICAgICAgImtlZXBIb2xkaW5nIjogIuasoeOBruaJi+mghuOBp+OCgiB7YnV0dG9ufSDjgpLmirzjgZfntprjgZHjgabjgY/jgaDjgZXjgYTjgILpm6LjgZfjgabjgojjgYTjgr/jgqTjg5/jg7PjgrDjga/jgIHjgZPjgZPjgafjgYrnn6XjgonjgZvjgZfjgb7jgZnjgIIiLAogICAgICAgICAgICAicHJlc3NQb3dlckJ1dHRvbkVWMyI6ICLnnJ/jgpPkuK3jga7jg5zjgr/jg7PjgpLmirzjgZfjgabjgIFFVjMg44Gu6Zu75rqQ44KS5YWl44KM44Gm44GP44Gg44GV44GE44CCIiwKICAgICAgICAgICAgInJlbGVhc2VCdXR0b24iOiAie2J1dHRvbn0g44KS6Zui44GX44Gm44GP44Gg44GV44GE44CCIiwKICAgICAgICAgICAgInJlbGVhc2VCdXR0b25zRVYzIjogIueUu+mdouOBq+OAjFVwZGF0aW5nLi4u44CN44Go6KGo56S644GV44KM44Gf44KJ44CB5Lih5pa544Gu44Oc44K/44Oz44KS6Zui44GX44Gm44GP44Gg44GV44GE44CCIiwKICAgICAgICAgICAgInRpdGxlIjogIuOCouODg+ODl+ODh+ODvOODiOODouODvOODieOBq+WFpeOCi++8iOWLleeUu+OCkuimi+OBpuOBj+OBoOOBleOBhO+8ie+8miIsCiAgICAgICAgICAgICJ3YWl0QXBwQ29ubmVjdCI6ICLjgqLjg5fjg6rjgYzoh6rli5XjgafmjqXntprjgZfjgabjgIHjg5XjgqHjg7zjg6DjgqbjgqfjgqLjga7lvqnlhYPjgpLlp4vjgoHjgb7jgZnjgIIiLAogICAgICAgICAgICAid2FpdEZvckxpZ2h0IjogIntsaWdodH0g44GMIHtsaWdodFBhdHRlcm59IOOBp+eCuea7heOBl+Wni+OCgeOCi+OBvuOBp+W+heOBo+OBpuOBj+OBoOOBleOBhOOAgiIKICAgICAgICB9LAogICAgICAgICJjb25uZWN0IjogewogICAgICAgICAgICAiY2xpY2tDb25uZWN0QW5kRmxhc2giOiAi5LiL44GuIHtmbGFzaEJ1dHRvbn0g44Oc44K/44Oz44KS44Kv44Oq44OD44Kv44GX44Gm44GP44Gg44GV44GE44CCIiwKICAgICAgICAgICAgImNvbm5lY3RCdXR0b24iOiAi5o6l57aaIiwKICAgICAgICAgICAgInNlbGVjdERldmljZSI6ICLjg53jg4Pjg5fjgqLjg4Pjg5fnlLvpnaLjgacge2RldmljZU5hbWV9IOOCkumBuOOBs+OAgXtjb25uZWN0QnV0dG9ufSDjgpLjgq/jg6rjg4Pjgq/jgZfjgabjgY/jgaDjgZXjgYTjgIIiLAogICAgICAgICAgICAic2VsZWN0RVYzRmlybXdhcmVUeXBlIjogIuS4i+OBi+OCieOAgeW+qeWFg+OBmeOCi+ODleOCoeODvOODoOOCpuOCp+OCouOBruODkOODvOOCuOODp+ODs+OCkumBuOOCk+OBp+OBj+OBoOOBleOBhOOAgiIsCiAgICAgICAgICAgICJ0aXRsZSI6ICLjgqTjg7Pjgrnjg4jjg7zjg6vvvJoiCiAgICAgICAgfSwKICAgICAgICAicHJlcGFyZSI6IHsKICAgICAgICAgICAgImFwcCI6ICJ7bGVnb30gUG93ZXJlZFVwIOOCouODl+ODquOCkuOAjOOCr+ODquOCqOOCpOODiOOAjeODouODvOODieOBp+mWi+OBhOOBpuOAgeaWsOOBl+OBhOODl+ODreOCuOOCp+OCr+ODiOOCkuWni+OCgeOBpuOBj+OBoOOBleOBhOOAgiIsCiAgICAgICAgICAgICJiYXR0ZXJpZXMiOiAi44OP44OW44Gr44CB5paw44GX44GE6Zu75rGg44GL44CB44OV44Or5YWF6Zu744GX44Gf6Zu75rGg44GM5YWl44Gj44Gm44GE44KL44GL56K66KqN44GX44Gm44GP44Gg44GV44GE44CCIiwKICAgICAgICAgICAgInRpdGxlIjogIua6luWCme+8miIsCiAgICAgICAgICAgICJ0dXJuT2ZmIjogIuODj+ODluOBrumbu+a6kOOBjOWIh+OCjOOBpuOBhOOCi+OBi+eiuuiqjeOBl+OBpuOBj+OBoOOBleOBhOOAgiIsCiAgICAgICAgICAgICJ1c2IiOiAiVVNCIOOCseODvOODluODq+OCkuaKnOOBhOOBpuOBj+OBoOOBleOBhOOAgiIKICAgICAgICB9CiAgICB9LAogICAgImxpZ2h0IjogewogICAgICAgICJibHVldG9vdGgiOiAiQmx1ZXRvb3RoIOODqeOCpOODiCIsCiAgICAgICAgInN0YXR1cyI6ICLjg4/jg5bjga7jg6njgqTjg4giCiAgICB9LAogICAgImxpZ2h0UGF0dGVybiI6IHsKICAgICAgICAiYmx1ZXRvb3RoIjogIuODlOODs+OCr+ODu+e3keODu+mdkuODu+a2iOeBryIsCiAgICAgICAgInN0YXR1cyI6ICLjgYbjgZnjgYTntKvoibIiCiAgICB9LAogICAgIndhcm5pbmciOiB7CiAgICAgICAgImxpbnV4IjogewogICAgICAgICAgICAibGVhcm5Nb3JlIjogIuips+OBl+OBj+imi+OCiyIsCiAgICAgICAgICAgICJtZXNzYWdlIjogIkxpbnV4IOOBpyBQeWJyaWNrcyDjgpIgVVNCIOOBp+S9v+OBo+OBn+OBk+OBqOOBjOOBquOBhOWgtOWQiOOBr+OAgeODleOCoeODvOODoOOCpuOCp+OCouOCkuOCpOODs+OCueODiOODvOODq+OBmeOCi+WJjeOBqyB1ZGV2IOODq+ODvOODq+OBruioreWumuOBjOW/heimgeOBp+OBmeOAgntsZWFybk1vcmV9IgogICAgICAgIH0sCiAgICAgICAgIndpbmRvd3MiOiB7CiAgICAgICAgICAgICJpbnN0cnVjdGlvbnMiOiAi44Kv44Oq44OD44Kv44GZ44KL44Go5pa55rOV44GM6KaL44KJ44KM44G+44GZIiwKICAgICAgICAgICAgIm1lc3NhZ2UiOiAi44GT44Gu44Kz44Oz44OU44Ol44O844K/44O844GnIFB5YnJpY2tzIOOCkuS9v+OBhuOBruOBjOWIneOCgeOBpuOBp+OBmeOBi++8n+OBk+OBruODj+ODluOBrueorumhnuOBq+WQiOOCj+OBm+OBpuOAgVVTQiDjg4njg6njgqTjg5Djg7zjgpLoh6rliIbjgafjgqTjg7Pjgrnjg4jjg7zjg6vjgZnjgovlv4XopoHjgYzjgYLjgovloLTlkIjjgYzjgYLjgorjgb7jgZnjgIJ7aW5zdHJ1Y3Rpb25zfSIKICAgICAgICB9CiAgICB9Cn0K
+{
+    "button": {
+        "bluetooth": "Bluetooth ボタン",
+        "power": "ボタン",
+        "right": "右ボタン"
+    },
+    "instructionGroup": {
+        "bootloaderMode": {
+            "connectUsb": "USB ケーブルをつないでください。",
+            "disconnectIo": "ハブのポート A につないであるものを、すべて取り外してください。",
+            "holdButton": "ハブの {button} を押し続けてください。",
+            "keepHolding": "次の手順でも {button} を押し続けてください。離してよいタイミングは、ここでお知らせします。",
+            "pressPowerButtonEV3": "真ん中のボタンを押して、EV3 の電源を入れてください。",
+            "releaseButton": "{button} を離してください。",
+            "releaseButtonsEV3": "画面に「Updating...」と表示されたら、両方のボタンを離してください。",
+            "title": "アップデートモードに入る（動画を見てください）：",
+            "waitAppConnect": "アプリが自動で接続して、ファームウェアの復元を始めます。",
+            "waitForLight": "{light} が {lightPattern} で点滅し始めるまで待ってください。"
+        },
+        "connect": {
+            "clickConnectAndFlash": "下の {flashButton} ボタンをクリックしてください。",
+            "connectButton": "接続",
+            "selectDevice": "ポップアップ画面で {deviceName} を選び、{connectButton} をクリックしてください。",
+            "selectEV3FirmwareType": "下から、復元するファームウェアのバージョンを選んでください。",
+            "title": "インストール："
+        },
+        "prepare": {
+            "app": "{lego} PoweredUp アプリを「クリエイト」モードで開いて、新しいプロジェクトを始めてください。",
+            "batteries": "ハブに、新しい電池か、フル充電した電池が入っているか確認してください。",
+            "title": "準備：",
+            "turnOff": "ハブの電源が切れているか確認してください。",
+            "usb": "USB ケーブルを抜いてください。"
+        }
+    },
+    "light": {
+        "bluetooth": "Bluetooth ライト",
+        "status": "ハブのライト"
+    },
+    "lightPattern": {
+        "bluetooth": "ピンク・緑・青・消灯",
+        "status": "うすい紫色"
+    },
+    "warning": {
+        "linux": {
+            "learnMore": "詳しく見る",
+            "message": "Linux で Pybricks を USB で使ったことがない場合は、ファームウェアをインストールする前に udev ルールの設定が必要です。{learnMore}"
+        },
+        "windows": {
+            "instructions": "クリックすると方法が見られます",
+            "message": "このコンピューターで Pybricks を使うのが初めてですか？このハブの種類に合わせて、USB ドライバーを自分でインストールする必要がある場合があります。{instructions}"
+        }
+    }
+}
