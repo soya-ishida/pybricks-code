@@ -1,1 +1,61 @@
-ewogICAgImJhY2tCdXR0b24iOiB7CiAgICAgICAgImxhYmVsIjogIuaIu+OCiyIKICAgIH0sCiAgICAiZG9uZUJ1dHRvbiI6IHsKICAgICAgICAibGFiZWwiOiAi5a6M5LqGIgogICAgfSwKICAgICJuZXh0QnV0dG9uIjogewogICAgICAgICJsYWJlbCI6ICLmrKHjgbgiCiAgICB9LAogICAgInN0ZXAiOiB7CiAgICAgICAgIjEiOiB7CiAgICAgICAgICAgICJkZXZpY2VNYW5hZ2VyIjogIuODh+ODkOOCpOOCuSDjg57jg43jg7zjgrjjg6Pjg7wiLAogICAgICAgICAgICAibWVzc2FnZSI6ICJXaW5kb3dzIOOBriB7c3RhcnRNZW51fSDjgpLlj7Pjgq/jg6rjg4Pjgq/jgZfjgabjgIF7ZGV2aWNlTWFuYWdlcn0g44KS44Kv44Oq44OD44Kv44GX44G+44GZ44CCIiwKICAgICAgICAgICAgInN0YXJ0TWVudSI6ICLjgrnjgr/jg7zjg4jjg6Hjg4vjg6Xjg7wiCiAgICAgICAgfSwKICAgICAgICAiMiI6IHsKICAgICAgICAgICAgImxpc3RlZFdpdGhXYXJuaW5nIjogIuitpuWRiuODnuODvOOCr+S7mOOBjeOBp+ihqOekuuOBleOCjOOBpuOBhOOCi+WgtOWQiOOBr+OAgeWPs+OCr+ODquODg+OCr+OBl+OBpiB7cHJvcGVydGllc30g44KS6YG444KT44Gn44GP44Gg44GV44GE44CCIiwKICAgICAgICAgICAgImxpc3RlZFdpdGhvdXRXYXJuaW5nIjogIuitpuWRiuODnuODvOOCr+OBquOBl+OBp+OBu+OBi+OBruWgtOaJgOOBq+ihqOekuuOBleOCjOOBpuOBhOOCi+WgtOWQiOOBr+OAgeODieODqeOCpOODkOODvOOBr+OBmeOBp+OBq+OCpOODs+OCueODiOODvOODq+OBleOCjOOBpuOBhOOBvuOBmeOAguOBk+OBrueUu+mdouOCkumWieOBmOOBpuOBi+OBvuOBhOOBvuOBm+OCk+OAgiIsCiAgICAgICAgICAgICJtZXNzYWdlIjogIntvdGhlckRldmljZXN9IOOBruS4reOBi+OCiSB7ZGZ1VXNiSHViTmFtZX0g44KS5o6i44GX44Gm44GP44Gg44GV44GE44CCIiwKICAgICAgICAgICAgIm5vdExpc3RlZCI6ICLjgb7jgaPjgZ/jgY/ooajnpLrjgZXjgozjgarjgYTloLTlkIjjga/jgIHjg4/jg5bjgYwgREZVIOOCouODg+ODl+ODh+ODvOODiOODouODvOODieOBq+OBquOBo+OBpuOBhOOCi+OBi+eiuuiqjeOBl+OBpuOAgeOCguOBhuS4gOW6puippuOBl+OBpuOBj+OBoOOBleOBhOOAguOBk+OBrueUu+mdouOCkumWieOBmOOCi+OBqOOAgeWLleeUu+OBruiqrOaYjuOBjOimi+OCieOCjOOBvuOBmeOAgiIsCiAgICAgICAgICAgICJvdGhlckRldmljZXMiOiAi44Gd44Gu5LuW44Gu44OH44OQ44Kk44K5IiwKICAgICAgICAgICAgInByb3BlcnRpZXMiOiAi44OX44Ot44OR44OG44KjIgogICAgICAgIH0sCiAgICAgICAgIjMiOiB7CiAgICAgICAgICAgICJtZXNzYWdlIjogIntwcm9wZXJ0aWVzfSDjga7nlLvpnaLjgafjgIF7dXBkYXRlRHJpdmVyfSDjg5zjgr/jg7PjgpLjgq/jg6rjg4Pjgq/jgZfjgb7jgZnjgIIiLAogICAgICAgICAgICAicHJvcGVydGllcyI6ICJ7ZGZ1VXNiSHViTmFtZX0g44Gu44OX44Ot44OR44OG44KjIiwKICAgICAgICAgICAgInVwZGF0ZURyaXZlciI6ICLjg4njg6njgqTjg5Djg7zjga7mm7TmlrAuLi4iCiAgICAgICAgfSwKICAgICAgICAiNCI6IHsKICAgICAgICAgICAgImJyb3dzZSI6ICLjgrPjg7Pjg5Tjg6Xjg7zjgr/jg7zjgpLlj4LnhafjgZfjgabjg4njg6njgqTjg5Djg7zjgpLmpJzntKLjgZnjgosiLAogICAgICAgICAgICAibWVzc2FnZSI6ICJ7dXBkYXRlRHJpdmVyc30g44Gu55S76Z2i44Gn44CBe2Jyb3dzZX0g44KS44Kv44Oq44OD44Kv44GX44G+44GZ44CCIiwKICAgICAgICAgICAgInVwZGF0ZURyaXZlcnMiOiAi44OJ44Op44Kk44OQ44O844Gu5pu05pawIgogICAgICAgIH0sCiAgICAgICAgIjUiOiB7CiAgICAgICAgICAgICJsZXRNZVBpY2siOiAi44Kz44Oz44OU44Ol44O844K/44O85LiK44Gu5Yip55So5Y+v6IO944Gq44OJ44Op44Kk44OQ44O844Gu5LiA6Kan44GL44KJ6YG45oqe44GX44G+44GZIiwKICAgICAgICAgICAgIm1lc3NhZ2UiOiAi5qyh44Gr44CBe2xldE1lUGlja30g44KS44Kv44Oq44OD44Kv44GX44G+44GZ44CCIgogICAgICAgIH0sCiAgICAgICAgIjYiOiB7CiAgICAgICAgICAgICJtZXNzYWdlIjogIuODh+ODkOOCpOOCueOBrueorumhnuOBruS4gOimp+OBpyB7dXNiRGV2aWNlc30g44KS6YG444Gz44CBe25leHR9IOODnOOCv+ODs+OCkuOCr+ODquODg+OCr+OBl+OBvuOBmeOAgiIsCiAgICAgICAgICAgICJuZXh0IjogIuasoeOBuCIsCiAgICAgICAgICAgICJ1c2JEZXZpY2VzIjogIuODpuODi+ODkOODvOOCteODqyDjgrfjg6rjgqLjg6sg44OQ44K5IOODh+ODkOOCpOOCuSIKICAgICAgICB9LAogICAgICAgICI3IjogewogICAgICAgICAgICAibWFudWZhY3R1cmVyIjogIuijvemAoOWFgyIsCiAgICAgICAgICAgICJtZXNzYWdlIjogInttYW51ZmFjdHVyZXJ9IOOBruS4gOimp+OBpyB7d2luVXNiRGV2aWNlfSDjgpLpgbjjgbPjgb7jgZnjgILmrKHjgasge21vZGVsfSDjga7kuIDopqfjgafjgoIge3dpblVzYkRldmljZX0g44KS6YG444Gz44G+44GZ44CC44Gd44KM44GL44KJIHtuZXh0fSDjg5zjgr/jg7PjgpLjgq/jg6rjg4Pjgq/jgZfjgb7jgZnjgIIiLAogICAgICAgICAgICAibW9kZWwiOiAi44Oi44OH44OrIiwKICAgICAgICAgICAgIm5leHQiOiAi5qyh44G4IiwKICAgICAgICAgICAgIndpblVzYkRldmljZSI6ICJXaW5Vc2IgRGV2aWNlIgogICAgICAgIH0sCiAgICAgICAgIjgiOiB7CiAgICAgICAgICAgICJtZXNzYWdlIjogIuODieODqeOCpOODkOODvOOBr+aOqOWlqOOBleOCjOOBquOBhOOBqOOBhOOBhuitpuWRiuOBjOWHuuOBvuOBmeOAguOBneOBruOBvuOBvumAsuOCgeOCi+OBq+OBryB7eWVzfSDjgpLjgq/jg6rjg4Pjgq/jgZfjgabjgY/jgaDjgZXjgYTjgILjgZPjga7jg4njg6njgqTjg5Djg7zjga/llY/poYzjgarjgY/kvb/jgYjjgb7jgZnjgIIiLAogICAgICAgICAgICAieWVzIjogIuOBr+OBhCIKICAgICAgICB9LAogICAgICAgICI5IjogewogICAgICAgICAgICAiY2xvc2UiOiAi6ZaJ44GY44KLIiwKICAgICAgICAgICAgIm1lc3NhZ2UiOiAi44OJ44Op44Kk44OQ44O844Gu44Kk44Oz44K544OI44O844Or44GM57WC44KP44KK44G+44GX44Gf44CCe2Nsb3NlfSDjg5zjgr/jg7PjgpLjgq/jg6rjg4Pjgq/jgZfjgabjgY/jgaDjgZXjgYTjgIIiCiAgICAgICAgfQogICAgfSwKICAgICJ0aXRsZSI6ICJXaW5kb3dzIERGVSBVU0Ig44OJ44Op44Kk44OQ44O844Gu44Kk44Oz44K544OI44O844Or5pa55rOVIgp9Cg==
+{
+    "backButton": {
+        "label": "戻る"
+    },
+    "doneButton": {
+        "label": "完了"
+    },
+    "nextButton": {
+        "label": "次へ"
+    },
+    "step": {
+        "1": {
+            "deviceManager": "デバイス マネージャー",
+            "message": "Windows の {startMenu} を右クリックして、{deviceManager} をクリックします。",
+            "startMenu": "スタートメニュー"
+        },
+        "2": {
+            "listedWithWarning": "警告マーク付きで表示されている場合は、右クリックして {properties} を選んでください。",
+            "listedWithoutWarning": "警告マークなしでほかの場所に表示されている場合は、ドライバーはすでにインストールされています。この画面を閉じてかまいません。",
+            "message": "{otherDevices} の中から {dfuUsbHubName} を探してください。",
+            "notListed": "まったく表示されない場合は、ハブが DFU アップデートモードになっているか確認して、もう一度試してください。この画面を閉じると、動画の説明が見られます。",
+            "otherDevices": "その他のデバイス",
+            "properties": "プロパティ"
+        },
+        "3": {
+            "message": "{properties} の画面で、{updateDriver} ボタンをクリックします。",
+            "properties": "{dfuUsbHubName} のプロパティ",
+            "updateDriver": "ドライバーの更新..."
+        },
+        "4": {
+            "browse": "コンピューターを参照してドライバーを検索する",
+            "message": "{updateDrivers} の画面で、{browse} をクリックします。",
+            "updateDrivers": "ドライバーの更新"
+        },
+        "5": {
+            "letMePick": "コンピューター上の利用可能なドライバーの一覧から選択します",
+            "message": "次に、{letMePick} をクリックします。"
+        },
+        "6": {
+            "message": "デバイスの種類の一覧で {usbDevices} を選び、{next} ボタンをクリックします。",
+            "next": "次へ",
+            "usbDevices": "ユニバーサル シリアル バス デバイス"
+        },
+        "7": {
+            "manufacturer": "製造元",
+            "message": "{manufacturer} の一覧で {winUsbDevice} を選びます。次に {model} の一覧でも {winUsbDevice} を選びます。それから {next} ボタンをクリックします。",
+            "model": "モデル",
+            "next": "次へ",
+            "winUsbDevice": "WinUsb Device"
+        },
+        "8": {
+            "message": "ドライバーは推奨されないという警告が出ます。そのまま進めるには {yes} をクリックしてください。このドライバーは問題なく使えます。",
+            "yes": "はい"
+        },
+        "9": {
+            "close": "閉じる",
+            "message": "ドライバーのインストールが終わりました。{close} ボタンをクリックしてください。"
+        }
+    },
+    "title": "Windows DFU USB ドライバーのインストール方法"
+}
