@@ -1,1 +1,4 @@
-ewogICAgImxhYmVsIjogIlJFUEwiLAogICAgInRvb2x0aXAiOiAi44K/44O844Of44OK44Or44Gr44Kz44O844OJ44KS5YWl5Yqb44GX44Gm44CB44Gd44Gu5aC044Gn5a6f6KGM77yIUkVQTO+8iSIKfQo=
+{
+    "label": "REPL",
+    "tooltip": "ターミナルにコードを入力して、その場で実行（REPL）"
+}
