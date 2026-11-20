@@ -1,4 +1,8 @@
-# GitHub Pages へ公開する（日本語版フォーク用に追加）
+# GitHub Pages へ公開する（日本語版フォーク用・修正版 v2）
+# 変更点（v1 から）:
+# - Node 20 -> 18（本家 .tool-versions は nodejs 18.15.0、公式 CI も 18.x で yarn install + yarn build）
+# - `node .yarn/releases/yarn-3.3.0.cjs install --immutable` -> `yarn install`（本家 CI と同じ呼び方。runner の yarn が .yarnrc.yml の yarnPath 経由で Berry 3.3.0 に委譲する）
+# - Build に NODE_OPTIONS=--max-old-space-size=4096 を追加（巨大バンドルのビルド中のメモリ不足への備え）
 name: Deploy to GitHub Pages
 
 on:
@@ -22,14 +26,15 @@ jobs:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
         with:
-          node-version: 20
+          node-version: 18
       - name: Install dependencies
-        run: node .yarn/releases/yarn-3.3.0.cjs install --immutable
+        run: yarn install
       - name: Build
-        run: node .yarn/releases/yarn-3.3.0.cjs build
+        run: yarn build
         env:
           CI: "false"
           PUBLIC_URL: /pybricks-code
+          NODE_OPTIONS: --max-old-space-size=4096
       - uses: actions/configure-pages@v5
         with:
           enablement: true
