@@ -1,1 +1,22 @@
-ewogICAgImJhdHRlcnkiOiB7CiAgICAgICAgImxvdyI6ICLpm7vmsaDjgYzlsJHjgarjgY/jgarjgaPjgabjgYTjgb7jgZnjgILjg4/jg5bjga7pm7vmupDjgYzjgb7jgoLjgarjgY/liIfjgozjgb7jgZnjgIIiLAogICAgICAgICJvayI6ICLpm7vmsaDjga/ljYHliIbjgavjgYLjgorjgb7jgZnjgIIiLAogICAgICAgICJ0aXRsZSI6ICLpm7vmsaAiCiAgICB9LAogICAgImNvbXBsZXRpb25FbmdpbmVTdGF0dXMiOiB7CiAgICAgICAgImxhYmVsIjogIuOCs+ODvOODieWFpeWKm+OCkuWKqeOBkeOCi+apn+iDveOBrueKtuaFiyIsCiAgICAgICAgIm1lc3NhZ2UiOiB7CiAgICAgICAgICAgICJmYWlsZWQiOiAi44Kz44O844OJ5YWl5Yqb44KS5Yqp44GR44KL5qmf6IO944GM5q2i44G+44Gj44Gm44GX44G+44GE44G+44GX44Gf44CCIiwKICAgICAgICAgICAgImxvYWRpbmciOiAi44Kz44O844OJ5YWl5Yqb44KS5Yqp44GR44KL5qmf6IO944KS5rqW5YKZ44GX44Gm44GE44G+44GZ44CC44G+44KC44Gq44GP5L2/44GI44G+44GZ44CCIiwKICAgICAgICAgICAgInJlYWR5IjogIuOCs+ODvOODieWFpeWKm+OCkuWKqeOBkeOCi+apn+iDveOBjOS9v+OBiOOBvuOBmeOAgiIsCiAgICAgICAgICAgICJ1bmtub3duIjogIuOCs+ODvOODieWFpeWKm+OCkuWKqeOBkeOCi+apn+iDveOBr+OBvuOBoOWni+OBvuOBo+OBpuOBhOOBvuOBm+OCk+OAgiIKICAgICAgICB9CiAgICB9LAogICAgImh1YkluZm8iOiB7CiAgICAgICAgImNvbm5lY3RlZFRvIjogIuaOpee2muWFiO+8miIsCiAgICAgICAgImZpcm13YXJlIjogIuODleOCoeODvOODoOOCpuOCp+OCou+8miIsCiAgICAgICAgImh1YlR5cGUiOiAi44OP44OW44Gu56iu6aGe77yaIiwKICAgICAgICAidGl0bGUiOiAi5o6l57aa5Lit44Gu44OP44OWIgogICAgfQp9Cg==
+{
+    "battery": {
+        "low": "電池が少なくなっています。ハブの電源がまもなく切れます。",
+        "ok": "電池は十分にあります。",
+        "title": "電池"
+    },
+    "completionEngineStatus": {
+        "label": "コード入力を助ける機能の状態",
+        "message": {
+            "failed": "コード入力を助ける機能が止まってしまいました。",
+            "loading": "コード入力を助ける機能を準備しています。まもなく使えます。",
+            "ready": "コード入力を助ける機能が使えます。",
+            "unknown": "コード入力を助ける機能はまだ始まっていません。"
+        }
+    },
+    "hubInfo": {
+        "connectedTo": "接続先：",
+        "firmware": "ファームウェア：",
+        "hubType": "ハブの種類：",
+        "title": "接続中のハブ"
+    }
+}
