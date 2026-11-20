@@ -1,1 +1,6 @@
-ewogICAgImNvcHlFcnJvck1lc3NhZ2UiOiAi44Ko44Op44O844Oh44OD44K744O844K444KS44Kz44OU44O8IiwKICAgICJtZXNzYWdlIjogIuaAneOBhOOBjOOBkeOBquOBhOOCqOODqeODvOOBjOi1t+OBjeOBvuOBl+OBn+OAguOCqOODqeODvOODoeODg+OCu+ODvOOCuOOCkuWIhuOBi+OCiuOChOOBmeOBj+OBmeOCi+OBn+OCgeOAgeWgseWRiuOBq+OBlOWNlOWKm+OBj+OBoOOBleOBhOOAguS4i+OBriB7Y29weUVycm9yTWVzc2FnZX0g44Oc44K/44Oz44Gn44Ko44Op44O844Gu44GP44KP44GX44GE5oOF5aCx44KS44Kz44OU44O844GX44CB44OQ44Kw5aCx5ZGK44Gr6LK844KK5LuY44GR44Gm44GP44Gg44GV44GE44CC5L2/44Gj44Gm44GE44KLIE9TIOOBqOODluODqeOCpuOCtuOAgeOCqOODqeODvOOBjOi1t+OBjeOCi+WJjeOBq+S9leOCkuOBl+OBn+OBi+OCguaVmeOBiOOBpuOBj+OBoOOBleOBhOOAgiIsCiAgICAicmVwb3J0QnVnIjogIuODkOOCsOOCkuWgseWRiiIsCiAgICAidGVjaG5pY2FsSW5mbyI6ICLoqbPjgZfjgYTmioDooZPmg4XloLHjgpLopovjgosiCn0K
+{
+    "copyErrorMessage": "エラーメッセージをコピー",
+    "message": "思いがけないエラーが起きました。エラーメッセージを分かりやすくするため、報告にご協力ください。下の {copyErrorMessage} ボタンでエラーのくわしい情報をコピーし、バグ報告に貼り付けてください。使っている OS とブラウザ、エラーが起きる前に何をしたかも教えてください。",
+    "reportBug": "バグを報告",
+    "technicalInfo": "詳しい技術情報を見る"
+}
