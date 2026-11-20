@@ -1,1 +1,81 @@
-Ly8gU1BEWC1MaWNlbnNlLUlkZW50aWZpZXI6IE1JVAovLyBDb3B5cmlnaHQgKGMpIDIwMjAtMjAyMyBUaGUgUHlicmlja3MgQXV0aG9ycwoKaW1wb3J0IHsgSTE4biwgSTE4bk1hbmFnZXIsIFRyYW5zbGF0ZU9wdGlvbnMgfSBmcm9tICdAc2hvcGlmeS9yZWFjdC1pMThuJzsKaW1wb3J0IHR5cGUgewogICAgQ29tcGxleFJlcGxhY2VtZW50RGljdGlvbmFyeSwKICAgIFByaW1pdGl2ZVJlcGxhY2VtZW50RGljdGlvbmFyeSwKICAgIFRyYW5zbGF0aW9uRGljdGlvbmFyeSwKfSBmcm9tICdAc2hvcGlmeS9yZWFjdC1pMThuL2J1aWxkL3RzL3R5cGVzJzsKCi8vIFRPRE86IGFkZCBsb2NhbGUgc2V0dGluZyBhbmQgdXNlIGJyb3dzZXIgcHJlZmVycmVkIGxhbmd1YWdlIGFzIGRlZmF1bHQKCi8qKiBUaGUgZ2xvYmFsIGkxOG4gbWFuYWdlci4gKi8KZXhwb3J0IGNvbnN0IGkxOG5NYW5hZ2VyID0gbmV3IEkxOG5NYW5hZ2VyKHsKICAgIGxvY2FsZTogJ2phJywKICAgIG9uRXJyb3I6IChlcnIpOiB2b2lkID0+IGNvbnNvbGUuZXJyb3IoZXJyKSwKfSk7CgovLyBpc3RhbmJ1bCBpZ25vcmUgbmV4dAovKiogRW5hYmxlcyBvciBkaXNhYmxlcyBwc2V1ZG9sb2NhbGl6YXRpb24gZm9yIGRldmVsb3BtZW50LiAqLwpleHBvcnQgZnVuY3Rpb24gcHNldWRvbG9jYWxpemUocHNldWRvbG9jYWxpemU6IGJvb2xlYW4pOiB2b2lkIHsKICAgIGkxOG5NYW5hZ2VyLnVwZGF0ZSh7IC4uLmkxOG5NYW5hZ2VyLmRldGFpbHMsIHBzZXVkb2xvY2FsaXplIH0pOwp9CgovLyBicmlsbGlhbnQgbWFnaWMgdG8gdHVybiBuZXN0ZWQganNvbiBrZXlzIGludG8gdHlwZXMKLy8gaHR0cHM6Ly9uZXdiZWRldi5jb20vdHlwZXNjcmlwdC1kZWVwLWtleW9mLW9mLWEtbmVzdGVkLW9iamVjdAoKdHlwZSBKb2luPEssIFA+ID0gSyBleHRlbmRzIHN0cmluZyB8IG51bWJlcgogICAgPyBQIGV4dGVuZHMgc3RyaW5nIHwgbnVtYmVyCiAgICAgICAgPyBgJHtLfSR7JycgZXh0ZW5kcyBQID8gJycgOiAnLid9JHtQfWAKICAgICAgICA6IG5ldmVyCiAgICA6IG5ldmVyOwoKLy8gcHJldHRpZXItaWdub3JlCnR5cGUgUHJldiA9IFsKICAgIG5ldmVyLAogICAgMCwgMSwgMiwgMywgNCwgNSwgNiwgNywgOCwgOSwgMTAsIDExLCAxMiwgMTMsIDE0LCAxNSwgMTYsIDE3LCAxOCwgMTksIDIwLAogICAgLi4uMFtdLApdOwoKdHlwZSBQYXRoczxULCBEIGV4dGVuZHMgbnVtYmVyID0gMTA+ID0gW0RdIGV4dGVuZHMgW25ldmVyXQogICAgPyBuZXZlcgogICAgOiBUIGV4dGVuZHMgb2JqZWN0CiAgICAgID8gewogICAgICAgICAgICBbSyBpbiBrZXlvZiBUXS0/OiBLIGV4dGVuZHMgc3RyaW5nIHwgbnVtYmVyCiAgICAgICAgICAgICAgICA/IGAke0t9YCB8IEpvaW48SywgUGF0aHM8VFtLXSwgUHJldltEXT4+CiAgICAgICAgICAgICAgICA6IG5ldmVyOwogICAgICAgIH1ba2V5b2YgVF0KICAgICAgOiAnJzsKCi8qKgogKiBJbnRlcmZhY2UgZm9yIHtAbGluayBJMThufSB0aGF0IHByb3ZpZGVzIHN0cm9uZyB0eXBlIGNoZWNraW5nIGZvcgogKiB0cmFuc2xhdGlvbnMgaWRzLgogKgogKiBAdHlwZVBhcmFtIFQgLSBUaGUgdHlwZSBvZiB0aGUgdHJhbnNsYXRpb24ganNvbiBmaWxlLgogKi8KZXhwb3J0IHR5cGUgVHlwZWRJMThuPFQ+ID0gT21pdDwKICAgIEkxOG4sCiAgICAndHJhbnNsYXRlJyB8ICdnZXRUcmFuc2xhdGlvblRyZWUnIHwgJ3RyYW5zbGF0aW9uS2V5RXhpc3RzJwo+ICYgewogICAgdHJhbnNsYXRlKAogICAgICAgIGlkOiBQYXRoczxUPiwKICAgICAgICBvcHRpb25zOiBUcmFuc2xhdGVPcHRpb25zLAogICAgICAgIHJlcGxhY2VtZW50cz86IFByaW1pdGl2ZVJlcGxhY2VtZW50RGljdGlvbmFyeSwKICAgICk6IHN0cmluZzsKICAgIHRyYW5zbGF0ZSgKICAgICAgICBpZDogUGF0aHM8VD4sCiAgICAgICAgb3B0aW9uczogVHJhbnNsYXRlT3B0aW9ucywKICAgICAgICByZXBsYWNlbWVudHM/OiBDb21wbGV4UmVwbGFjZW1lbnREaWN0aW9uYXJ5LAogICAgKTogUmVhY3QuUmVhY3RFbGVtZW50OwogICAgdHJhbnNsYXRlKGlkOiBQYXRoczxUPiwgcmVwbGFjZW1lbnRzPzogUHJpbWl0aXZlUmVwbGFjZW1lbnREaWN0aW9uYXJ5KTogc3RyaW5nOwogICAgdHJhbnNsYXRlKAogICAgICAgIGlkOiBQYXRoczxUPiwKICAgICAgICByZXBsYWNlbWVudHM/OiBDb21wbGV4UmVwbGFjZW1lbnREaWN0aW9uYXJ5LAogICAgKTogUmVhY3QuUmVhY3RFbGVtZW50OwogICAgZ2V0VHJhbnNsYXRpb25UcmVlKAogICAgICAgIGlkOiBQYXRoczxUPiwKICAgICAgICByZXBsYWNlbWVudHM/OiBQcmltaXRpdmVSZXBsYWNlbWVudERpY3Rpb25hcnkgfCBDb21wbGV4UmVwbGFjZW1lbnREaWN0aW9uYXJ5LAogICAgKTogc3RyaW5nIHwgVHJhbnNsYXRpb25EaWN0aW9uYXJ5OwogICAgdHJhbnNsYXRpb25LZXlFeGlzdHMoaWQ6IFBhdGhzPFQ+KTogYm9vbGVhbjsKfTsK
+// SPDX-License-Identifier: MIT
+// Copyright (c) 2020-2023 The Pybricks Authors
+
+import { I18n, I18nManager, TranslateOptions } from '@shopify/react-i18n';
+import type {
+    ComplexReplacementDictionary,
+    PrimitiveReplacementDictionary,
+    TranslationDictionary,
+} from '@shopify/react-i18n/build/ts/types';
+
+// TODO: add locale setting and use browser preferred language as default
+
+/** The global i18n manager. */
+export const i18nManager = new I18nManager({
+    locale: 'ja',
+    onError: (err): void => console.error(err),
+});
+
+// istanbul ignore next
+/** Enables or disables pseudolocalization for development. */
+export function pseudolocalize(pseudolocalize: boolean): void {
+    i18nManager.update({ ...i18nManager.details, pseudolocalize });
+}
+
+// brilliant magic to turn nested json keys into types
+// https://newbedev.com/typescript-deep-keyof-of-a-nested-object
+
+type Join<K, P> = K extends string | number
+    ? P extends string | number
+        ? `${K}${'' extends P ? '' : '.'}${P}`
+        : never
+    : never;
+
+// prettier-ignore
+type Prev = [
+    never,
+    0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20,
+    ...0[],
+];
+
+type Paths<T, D extends number = 10> = [D] extends [never]
+    ? never
+    : T extends object
+      ? {
+            [K in keyof T]-?: K extends string | number
+                ? `${K}` | Join<K, Paths<T[K], Prev[D]>>
+                : never;
+        }[keyof T]
+      : '';
+
+/**
+ * Interface for {@link I18n} that provides strong type checking for
+ * translations ids.
+ *
+ * @typeParam T - The type of the translation json file.
+ */
+export type TypedI18n<T> = Omit<
+    I18n,
+    'translate' | 'getTranslationTree' | 'translationKeyExists'
+> & {
+    translate(
+        id: Paths<T>,
+        options: TranslateOptions,
+        replacements?: PrimitiveReplacementDictionary,
+    ): string;
+    translate(
+        id: Paths<T>,
+        options: TranslateOptions,
+        replacements?: ComplexReplacementDictionary,
+    ): React.ReactElement;
+    translate(id: Paths<T>, replacements?: PrimitiveReplacementDictionary): string;
+    translate(
+        id: Paths<T>,
+        replacements?: ComplexReplacementDictionary,
+    ): React.ReactElement;
+    getTranslationTree(
+        id: Paths<T>,
+        replacements?: PrimitiveReplacementDictionary | ComplexReplacementDictionary,
+    ): string | TranslationDictionary;
+    translationKeyExists(id: Paths<T>): boolean;
+};
