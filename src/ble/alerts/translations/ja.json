@@ -1,1 +1,41 @@
-ewogICAgImJsdWV0b290aE5vdEF2YWlsYWJsZSI6IHsKICAgICAgICAiYnJvd3NlclN1cHBvcnQiOiAiQnJhdmUg44KEIE9wZXJhIOOBquOBqeOAgeS4gOmDqOOBruODluODqeOCpuOCtuOBryBXZWIgQmx1ZXRvb3RoIOOBq+WvvuW/nOOBl+OBpuOBhOOBvuOBm+OCk+OAgkNocm9tZeOAgUVkZ2XjgIHjgb7jgZ/jga8gaU9TIOOBp+OBryBXZWJCTEUg44Gq44Gp44CB5a++5b+c44GX44Gm44GE44KL44OW44Op44Km44K244KS5L2/44Gj44Gm44GP44Gg44GV44GE44CCIiwKICAgICAgICAibWVzc2FnZSI6ICJCbHVldG9vdGgg44Ki44OA44OX44K/44O844GM6KaL44Gk44GL44KJ44Gq44GE44GL44CBQmx1ZXRvb3RoIOOCkuS9v+OBhuioseWPr+OBjOW+l+OCieOCjOOBpuOBhOOBvuOBm+OCk+OAgiIsCiAgICAgICAgInN1Z2dlc3Rpb24iOiAiQmx1ZXRvb3RoIExvdyBFbmVyZ3kg44Ki44OA44OX44K/44O844KS5o6l57aa44GZ44KL44GL5pyJ5Yq544Gr44GX44Gm44CB44OW44Op44Km44K244Gr5L2/44GG6Kix5Y+v44GM44GC44KL44GT44Go44KS56K66KqN44GX44Gm44GL44KJ44CB44OW44Op44Km44K244KS5YaN6LW35YuV44GX44Gm44GP44Gg44GV44GE44CCIgogICAgfSwKICAgICJkaXNjb25uZWN0ZWQiOiB7CiAgICAgICAgIm1lc3NhZ2UiOiAi44OP44OW44Gu5o6l57aa44GM5YiH44KM44G+44GX44Gf44CC44KC44GG5LiA5bqm5o6l57aa44GX44Gm44GL44KJ44GK6Kmm44GX44GP44Gg44GV44GE44CCIgogICAgfSwKICAgICJtaXNzaW5nU2VydmljZSI6IHsKICAgICAgICAibWVzc2FnZSI6ICLjg4/jg5bjgavmjqXntprjgZfjgb7jgZfjgZ/jgYzjgIF7c2VydmljZU5hbWV9IOOCteODvOODk+OCueOCkuWPluW+l+OBp+OBjeOBvuOBm+OCk+OBp+OBl+OBn+OAgiIsCiAgICAgICAgInN1Z2dlc3Rpb24xIjogIuacgOaWsOOBruODleOCoeODvOODoOOCpuOCp+OCouOCkuS9v+OBo+OBpuOBhOOCi+OBi+eiuuiqjeOBl+OBpuOBj+OBoOOBleOBhOOAgiIsCiAgICAgICAgInN1Z2dlc3Rpb24yIjogIuOBneOCjOOBp+OCguebtOOCieOBquOBhOWgtOWQiOOBr+OAgU9TIOOBriBCbHVldG9vdGgg6Kit5a6a44Gn44CMe2h1Yk5hbWV944CN44OH44OQ44Kk44K544KS5YmK6Zmk44GX44Gm44GL44KJ44CB44KC44GG5LiA5bqm5o6l57aa44GX44Gm44G/44Gm44GP44Gg44GV44GE44CCIgogICAgfSwKICAgICJuZXdQeWJyaWNrc1Byb2ZpbGUiOiB7CiAgICAgICAgIm1lc3NhZ2UiOiAi5o6l57aa44GX44Gf44OP44OW44Gv44CB5paw44GX44GEIFB5YnJpY2tzIOOBrumAmuS/oeaWueW8j+OCkuS9v+OBo+OBpuOBhOOBvuOBmeOAguS4gOmDqOOBruapn+iDveOBjOOBhuOBvuOBj+WLleOBi+OBquOBhOOBk+OBqOOBjOOBguOCiuOBvuOBmeOAgiIsCiAgICAgICAgInN1Z2dlc3Rpb24iOiAi5ZWP6aGM44KS6YG/44GR44KL44Gf44KB44CB44OP44OW44Gu44OV44Kh44O844Og44Km44Kn44Ki44KS5Y+k44GE44OQ44O844K444On44Oz44Gr5oi744GZ44GL44CBe2FwcH0g44KS5paw44GX44GE44OQ44O844K444On44Oz44Gr44GX44Gm44GP44Gg44GV44GE44CCIiwKICAgICAgICAidmVyc2lvbnMiOiAi44OP44OW44Gu44OQ44O844K444On44Oz44GvIHtodWJWZXJzaW9ufSDjgafjgIF7YXBwfSDjgYzlr77lv5zjgZfjgabjgYTjgovjga7jga8ge2FwcFZlcnNpb259IOOBp+OBmeOAgiIKICAgIH0sCiAgICAibm9HYXR0IjogewogICAgICAgICJtZXNzYWdlIjogIuODluODqeOCpuOCtuOBi+OCiSBCbHVldG9vdGggTG93IEVuZXJneSDjgpLkvb/jgYboqLHlj6/jgYzlvpfjgonjgozjgb7jgZvjgpPjgafjgZfjgZ/jgIIiCiAgICB9LAogICAgIm5vSHViIjogewogICAgICAgICJmbGFzaEZpcm13YXJlQnV0dG9uIjogIlB5YnJpY2tzIOODleOCoeODvOODoOOCpuOCp+OCouOCkuOCpOODs+OCueODiOODvOODqyIsCiAgICAgICAgIm1lc3NhZ2UiOiAi44OP44OW44GM6KaL44Gk44GL44KK44G+44Gb44KT44CCIiwKICAgICAgICAic3VnZ2VzdGlvbiI6ICJQeWJyaWNrcyDjg5XjgqHjg7zjg6DjgqbjgqfjgqLjga/jgoLjgYbjgqTjg7Pjgrnjg4jjg7zjg6vjgZfjgb7jgZfjgZ/jgYvvvJ8iLAogICAgICAgICJ0cm91Ymxlc2hvb3RCdXR0b24iOiAi5o6l57aa44Gu5ZWP6aGM44KS6Kej5rG644GZ44KLIgogICAgfSwKICAgICJub1dlYkJsdWV0b290aCI6IHsKICAgICAgICAiYWN0aW9uIjogIuips+OBl+OBj+imi+OCiyIsCiAgICAgICAgImxpbnV4IjogIkxpbnV4IOOBp+OBryBXZWIgQmx1ZXRvb3RoIOOBr+Wun+mok+eahOOBquapn+iDveOBp+OAgeiHquWIhuOBp+acieWKueOBq+OBmeOCi+W/heimgeOBjOOBguOCiuOBvuOBmeOAguS4i+OBruODquODs+OCr+OCkuOCs+ODlOODvOOBl+OBpuOAgeOCouODieODrOOCueODkOODvOOBq+iyvOOCiuS7mOOBkeOBpuOBj+OBoOOBleOBhOOAgiIsCiAgICAgICAgIm1lc3NhZ2UiOiAi44GT44Gu44OW44Op44Km44K244GvIFdlYiBCbHVldG9vdGgg44Gr5a++5b+c44GX44Gm44GE44Gq44GE44GL44CBV2ViIEJsdWV0b290aCDjgYzmnInlirnjgavjgarjgaPjgabjgYTjgb7jgZvjgpPjgIIiLAogICAgICAgICJzdWdnZXN0aW9uIjogIkdvb2dsZSBDaHJvbWUg44KEIE1pY3Jvc29mdCBFZGdlIOOBquOBqeOAgeWvvuW/nOOBl+OBpuOBhOOCi+ODluODqeOCpuOCtuOCkuS9v+OBo+OBpuOBj+OBoOOBleOBhOOAgiIKICAgIH0sCiAgICAib2xkRmlybXdhcmUiOiB7CiAgICAgICAgImZsYXNoRmlybXdhcmUiOiB7CiAgICAgICAgICAgICJsYWJlbCI6ICJQeWJyaWNrcyDjg5XjgqHjg7zjg6DjgqbjgqfjgqLjgpLmm7TmlrAiCiAgICAgICAgfSwKICAgICAgICAibWVzc2FnZSI6ICLjgZPjga7jg4/jg5bjgavjga/mlrDjgZfjgYTjg5XjgqHjg7zjg6DjgqbjgqfjgqLjgYzjgYLjgorjgb7jgZnjgILmlrDjgZfjgYTmqZ/og73jgpLjgZnjgbnjgabkvb/jgYbjgavjga/jgIHmnIDmlrDniYjjgpLjgqTjg7Pjgrnjg4jjg7zjg6vjgZfjgabjgY/jgaDjgZXjgYTjgIIiCiAgICB9Cn0K
+{
+    "bluetoothNotAvailable": {
+        "browserSupport": "Brave や Opera など、一部のブラウザは Web Bluetooth に対応していません。Chrome、Edge、または iOS では WebBLE など、対応しているブラウザを使ってください。",
+        "message": "Bluetooth アダプターが見つからないか、Bluetooth を使う許可が得られていません。",
+        "suggestion": "Bluetooth Low Energy アダプターを接続するか有効にして、ブラウザに使う許可があることを確認してから、ブラウザを再起動してください。"
+    },
+    "disconnected": {
+        "message": "ハブの接続が切れました。もう一度接続してからお試しください。"
+    },
+    "missingService": {
+        "message": "ハブに接続しましたが、{serviceName} サービスを取得できませんでした。",
+        "suggestion1": "最新のファームウェアを使っているか確認してください。",
+        "suggestion2": "それでも直らない場合は、OS の Bluetooth 設定で「{hubName}」デバイスを削除してから、もう一度接続してみてください。"
+    },
+    "newPybricksProfile": {
+        "message": "接続したハブは、新しい Pybricks の通信方式を使っています。一部の機能がうまく動かないことがあります。",
+        "suggestion": "問題を避けるため、ハブのファームウェアを古いバージョンに戻すか、{app} を新しいバージョンにしてください。",
+        "versions": "ハブのバージョンは {hubVersion} で、{app} が対応しているのは {appVersion} です。"
+    },
+    "noGatt": {
+        "message": "ブラウザから Bluetooth Low Energy を使う許可が得られませんでした。"
+    },
+    "noHub": {
+        "flashFirmwareButton": "Pybricks ファームウェアをインストール",
+        "message": "ハブが見つかりません。",
+        "suggestion": "Pybricks ファームウェアはもうインストールしましたか？",
+        "troubleshootButton": "接続の問題を解決する"
+    },
+    "noWebBluetooth": {
+        "action": "詳しく見る",
+        "linux": "Linux では Web Bluetooth は実験的な機能で、自分で有効にする必要があります。下のリンクをコピーして、アドレスバーに貼り付けてください。",
+        "message": "このブラウザは Web Bluetooth に対応していないか、Web Bluetooth が有効になっていません。",
+        "suggestion": "Google Chrome や Microsoft Edge など、対応しているブラウザを使ってください。"
+    },
+    "oldFirmware": {
+        "flashFirmware": {
+            "label": "Pybricks ファームウェアを更新"
+        },
+        "message": "このハブには新しいファームウェアがあります。新しい機能をすべて使うには、最新版をインストールしてください。"
+    }
+}
