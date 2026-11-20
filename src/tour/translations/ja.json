@@ -1,1 +1,34 @@
-ewogICAgImJhY2siOiAi5oi744KLIiwKICAgICJjbG9zZSI6ICLplonjgZjjgosiLAogICAgImxhc3QiOiAi5pyA5b6MIiwKICAgICJuZXh0IjogIuasoeOBuCIsCiAgICAib3BlbiI6ICLnlLvpnaLjgpLplovjgY8iLAogICAgInNraXAiOiAi44K544Kt44OD44OXIiwKICAgICJzdGVwcyI6IHsKICAgICAgICAiYmFja3VwRmlsZXMiOiB7CiAgICAgICAgICAgICJhY3Rpb24iOiAie2ljb259IOOCkuaKvOOBl+OBpuOAgeODl+ODreOCsOODqeODoOOCkuODkOODg+OCr+OCouODg+ODl+OBl+OBvuOBl+OCh+OBhuOAgiIsCiAgICAgICAgICAgICJtZXNzYWdlIjogIuS9nOOBo+OBn+OCguOBruOCkuOBquOBj+OBleOBquOBhOOCiOOBhuOBq+OBl+OBvuOBl+OCh+OBhuOAgiIKICAgICAgICB9LAogICAgICAgICJjb25uZWN0VG9IdWIiOiB7CiAgICAgICAgICAgICJtZXNzYWdlIjogIkJsdWV0b290aCDjg5zjgr/jg7PjgpLmirzjgZfjgabmjqXntprjgZfjgb7jgZfjgofjgYbjgIIiCiAgICAgICAgfSwKICAgICAgICAiZG93bmxvYWRBbmRSdW4iOiB7CiAgICAgICAgICAgICJtZXNzYWdlIjogIuaOpee2muOBp+OBjeOBn+OCieOAgXtpY29ufSDjg5zjgr/jg7PjgpLmirzjgZfjgabjg5fjg63jgrDjg6njg6DjgpLlrp/ooYzjgZfjgb7jgZfjgofjgYbjgIIiLAogICAgICAgICAgICAicnVuQWdhaW4iOiAi44OX44Ot44Kw44Op44Og44Gv44OP44OW44Gr5L+d5a2Y44GV44KM44G+44GX44Gf44CC44OP44OW44Gu44Oc44K/44Oz44KS5oq844GZ44Go44CB44KC44GG5LiA5bqm5a6f6KGM44Gn44GN44G+44GZ44CCIgogICAgICAgIH0sCiAgICAgICAgImZsYXNoUHlicmlja3NGaXJtd2FyZSI6IHsKICAgICAgICAgICAgIm1lc3NhZ2UiOiAie2FwcE5hbWV9IOOCkuS9v+OBhuOBq+OBr+OAgVB5YnJpY2tzIOODleOCoeODvOODoOOCpuOCp+OCouOCkuWFpeOCjOOCi+W/heimgeOBjOOBguOCiuOBvuOBmeOAgiIKICAgICAgICB9LAogICAgICAgICJuZXdGaWxlIjogewogICAgICAgICAgICAibWVzc2FnZSI6ICJ7aWNvbn0g44Oc44K/44Oz44KS5oq844GZ44Go44CB5paw44GX44GE44OX44Ot44Kw44Op44Og44KS5L2c44KM44G+44GZ44CCIgogICAgICAgIH0sCiAgICAgICAgInJlc3RvcmVPZmZpY2lhbEZpcm13YXJlIjogewogICAgICAgICAgICAibWVzc2FnZSI6ICLlhazlvI/jga4ge2xlZ299IOODleOCoeODvOODoOOCpuOCp+OCouOBq+OBr+OAgeOBhOOBpOOBp+OCguaIu+OBm+OBvuOBmeOAgiIKICAgICAgICB9LAogICAgICAgICJ3ZWxjb21lIjogewogICAgICAgICAgICAiYWN0aW9uIjogIntuZXh0fSDjgpLmirzjgZnjgajjgIHkuLvjgarmqZ/og73jgpLntLnku4vjgZfjgb7jgZnjgIIiLAogICAgICAgICAgICAibWVzc2FnZSI6ICJ7YXBwTmFtZX0g44G444KI44GG44GT44Gd44CCIgogICAgICAgIH0KICAgIH0KfQo=
+{
+    "back": "戻る",
+    "close": "閉じる",
+    "last": "最後",
+    "next": "次へ",
+    "open": "画面を開く",
+    "skip": "スキップ",
+    "steps": {
+        "backupFiles": {
+            "action": "{icon} を押して、プログラムをバックアップしましょう。",
+            "message": "作ったものをなくさないようにしましょう。"
+        },
+        "connectToHub": {
+            "message": "Bluetooth ボタンを押して接続しましょう。"
+        },
+        "downloadAndRun": {
+            "message": "接続できたら、{icon} ボタンを押してプログラムを実行しましょう。",
+            "runAgain": "プログラムはハブに保存されました。ハブのボタンを押すと、もう一度実行できます。"
+        },
+        "flashPybricksFirmware": {
+            "message": "{appName} を使うには、Pybricks ファームウェアを入れる必要があります。"
+        },
+        "newFile": {
+            "message": "{icon} ボタンを押すと、新しいプログラムを作れます。"
+        },
+        "restoreOfficialFirmware": {
+            "message": "公式の {lego} ファームウェアには、いつでも戻せます。"
+        },
+        "welcome": {
+            "action": "{next} を押すと、主な機能を紹介します。",
+            "message": "{appName} へようこそ。"
+        }
+    }
+}
