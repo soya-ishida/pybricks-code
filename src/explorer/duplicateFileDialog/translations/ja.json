@@ -1,1 +1,6 @@
-ewogICAgImFjdGlvbiI6IHsKICAgICAgICAiYWNjZXB0IjogIuOCs+ODlOODvCIKICAgIH0sCiAgICAidGl0bGUiOiAiJ3tmaWxlTmFtZX0nIOOCkuOCs+ODlOODvCIKfQo=
+{
+    "action": {
+        "accept": "コピー"
+    },
+    "title": "'{fileName}' をコピー"
+}
