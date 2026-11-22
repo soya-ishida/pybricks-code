@@ -79,8 +79,12 @@ export const httpServerHeadersVersion = 2;
 /** Path to directory where docs are copied by webpack. */
 export const docsPathPrefix = `static/docs/v${docsPackage.version}/`;
 
-/** The index page of the docs. */
-export const docsDefaultPage = `${docsPathPrefix}index.html`;
+/**
+ * The default page of the docs. The bundled docs are filtered down to
+ * SPIKE Prime pages (see config/docsFilter.js), so the docs open on the
+ * Prime Hub page.
+ */
+export const docsDefaultPage = `${docsPathPrefix}hubs/primehub.html`;
 
 /** The ZIP file extension ('.zip') */
 export const zipFileExtension = '.zip';

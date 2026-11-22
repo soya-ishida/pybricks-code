@@ -21,6 +21,7 @@ const getCSSModuleLocalIdent = require('react-dev-utils/getCSSModuleLocalIdent')
 const ESLintPlugin = require('eslint-webpack-plugin');
 const paths = require('./paths');
 const modules = require('./modules');
+const docsFilter = require('./docsFilter');
 const getClientEnvironment = require('./env');
 const ModuleNotFoundPlugin = require('react-dev-utils/ModuleNotFoundPlugin');
 const ForkTsCheckerWebpackPlugin =
@@ -585,6 +586,13 @@ module.exports = function (webpackEnv) {
           {
             from: `${path.dirname(require.resolve('@pybricks/ide-docs/package.json'))}/html`,
             to: `static/docs/v${require('@pybricks/ide-docs/package.json').version}/`,
+            // Japanese SPIKE Prime edition: skip pages for devices that
+            // are not part of the SPIKE Prime kit and strip links to them
+            // from the remaining pages. See config/docsFilter.js.
+            filter: (absoluteResourcePath) =>
+              !docsFilter.isRemovedDocPage(absoluteResourcePath),
+            transform: (content, absoluteFrom) =>
+              docsFilter.transformDoc(content, absoluteFrom),
           },
         ],
       }),

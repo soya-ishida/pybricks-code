@@ -110,7 +110,14 @@ async function init(): Promise<void> {
         new URL('@pybricks/jedi/jedi.whl', import.meta.url).toString(),
         new URL('@pybricks/jedi/parso.whl', import.meta.url).toString(),
         new URL('@pybricks/jedi/pybricks_jedi.whl', import.meta.url).toString(),
-        new URL('@pybricks/jedi/pybricks.whl', import.meta.url).toString(),
+        // Japanese edition: load the vendored pybricks wheel instead of the
+        // one bundled with @pybricks/jedi. It is the same wheel, except that
+        // the docstrings of the main APIs are translated to Japanese so
+        // signature help shows Japanese explanations. See vendor/README.md.
+        new URL(
+            './vendor/pybricks-3.6.0b5-py3-none-any.whl',
+            import.meta.url,
+        ).toString(),
         new URL('@pybricks/jedi/typing_extensions.whl', import.meta.url).toString(),
     ]);
 
